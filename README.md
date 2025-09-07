@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Swambui16/Swambui16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
   <!-- Donut Layout
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&layout=donut-vertical&hide_progress=true) -->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurungi&langs_count=5&theme=dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Swambui16&langs_count=5&theme=dark)]()
 
 </div>
 
